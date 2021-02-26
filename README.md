@@ -12,7 +12,7 @@
 - 👩‍🎓 I am currently a university student, sophmore (or second year in uni for you international peeps xd)  
   
 
-- 🎓 I’m currently learning Java, Electron, and JavaScript.  
+- 🎓 I’m currently learning Java, C# Electron, and JavaScript.  
   
 
 - 🔥 I’m currently working on [MadLad](https://github.com/mellobacon/maf), a compiler and soon to be esolang.  
