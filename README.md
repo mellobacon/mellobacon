@@ -44,7 +44,7 @@
 
   </td>
 
-  <td valign="top" width="50%" style="border: 0px;">
+  <td align="top" width="50%" style="border: 0px;">
 
   ### Frameworks  
   <div align="center">  
