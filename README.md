@@ -51,8 +51,9 @@
 </div>
 
 </td><td valign="top" width="33%">
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mellobacon&layout=compact&theme=dark&custom_title=Languages I use the most" align="center" /></div>
+  
+### Most Used Languages  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mellobacon&layout=compact&theme=dark&custom_title=Languages I use the most&hide_title=true&hide_border=true" align="center" /></div>
 
 </td><td valign="top" width="33%">
 
@@ -71,8 +72,8 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mellobacon&count_private=true&show_icons=true&theme=dark&include_all_commits=true&custom_title=My Stats" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mellobacon&count_private=true&show_icons=true&theme=dark&include_all_commits=true&custom_title=My Stats&hide_border=true" align="center" /></div>
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">Go check out <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a> to make a readme like this!</div>
