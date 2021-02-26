@@ -63,7 +63,10 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mellobacon&count_private=true&show_icons=true&theme=dark&include_all_commits=true&custom_title=My Stats&hide_border=true" align="center" /></div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mellobacon&count_private=true&show_icons=true&theme=dark&include_all_commits=true&custom_title=My Stats&hide_border=true" align="center" </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mellobacon&theme=dark&custom_title=Languages I use the most&hide_title=true&hide_border=true&layout=compact" align="center" </a></div>
+
 <br />
 
 ----
