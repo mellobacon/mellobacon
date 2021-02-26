@@ -37,7 +37,7 @@
 
 
 ## My Skill Set  
-<table style="border: none"><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="33%" style="border: 0px;">
 
 
 
@@ -50,12 +50,12 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td style="border: 0px;" valign="top" width="33%">
   
 ### Most Used Languages  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mellobacon&layout=compact&theme=dark&custom_title=Languages I use the most&hide_title=true&hide_border=true" align="center" /></div>
+<div align="center" style="border: 0px"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mellobacon&layout=compact&theme=dark&custom_title=Languages I use the most&hide_title=true&hide_border=true" align="center" /></div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="33%" style="border: 0px;">
 
 
 
