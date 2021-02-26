@@ -6,7 +6,7 @@
 # <div align="center">The name's Mellobacon, a nerd trying to make cool stuff.</div>  
   
 
-- 🌎 I am from the USA (enter eagles, burgers, fireworks, and other way too patriotic American things here🤠)  
+- 🌎 I am from the USA (enter eagles, burgers, fireworks, and other American things here🤠)  
   
 
 - 👩‍🎓 I am currently a university student, sophmore (or second year in uni for you international peeps xd)  
