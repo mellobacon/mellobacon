@@ -28,9 +28,9 @@
 
 
 ## My Skill Set  
-<table style="background-color: gray;"><tr><td align="top" width="33%" style="border: 0px;">
-
-
+<table style="background-color: gray;" width: 100%><tr>
+  
+<td align="top" width="50%" style="border: 0px;">
 
 ### Languages  
 <div align="center">  
@@ -41,15 +41,10 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
 </div>
 
-</td><td style="border: 0px;" align="top" width="33%">
+</td>
+
+<td valign="top" width="50%" style="border: 0px;">
   
-### Most Used Languages  
-<div align="center" style="border: 0px"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mellobacon&theme=dark&custom_title=Languages I use the most&hide_title=true&hide_border=true&layout=compact" align="center" /></div>
-
-</td><td valign="top" width="33%" style="border: 0px;">
-
-
-
 ### Frameworks  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
@@ -57,7 +52,9 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" />  
 </div>
 
-</td></tr></table>  
+</td>
+
+</tr></table>  
 
 <br/>  
 
@@ -65,7 +62,7 @@
 ## Github Stats  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mellobacon&count_private=true&show_icons=true&theme=dark&include_all_commits=true&custom_title=My Stats&hide_border=true" align="center" </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mellobacon&theme=dark&custom_title=Languages I use the most&hide_title=true&hide_border=true&layout=compact" align="center" </a></div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mellobacon&theme=dark&custom_title=Languages I use the most&hide_border=true&layout=compact" align="center" </a></div>
 
 <br />
 
