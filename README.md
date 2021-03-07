@@ -22,7 +22,7 @@
   
 
 - 🖥️ Extra: Check out another cool project I did [here](https://github.com/mellobacon/Termello)!  
-    - Looking for a project to contribute on? Help is wanted here!
+    - Looking for a project to contribute on? Help is wanted [here](https://github.com/mellobacon/Termello/issues/20)!
 
 <br/>  
 
