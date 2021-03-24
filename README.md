@@ -15,7 +15,7 @@
 - 🎓 I’m currently learning Java, C#, Electron, and JavaScript.  
   
 
-- 🔥 I’m currently working on [MadLad](https://github.com/mellobacon/maf), a compiler and soon to be esolang.  
+- 🔥 I’m currently working on [MadLad](https://github.com/mellobacon/MadLad), a compiler and soon to be esolang.  
   
 
 - 🎹 Fun fact: The amount of FL Studio files I have are sooooo many 😄. Not even complete songs neither!  
