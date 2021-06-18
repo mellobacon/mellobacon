@@ -9,13 +9,13 @@
 - 🌎 I am from the USA (enter eagles, burgers, fireworks, and other American things here🤠)  
   
 
-- 👩‍🎓 I am currently a university student, sophomore (or second year in uni for you international peeps xd)  
+- 👩‍🎓 I am currently a university student, junior (or third year in uni for you international peeps xd)  
   
 
-- 🎓 I’m currently learning Java, C#, Electron, and JavaScript.  
+- 🎓 I’m currently learning Java, C#, Electron, and JavaScript/TypeScript
   
 
-- 🔥 I’m currently working on [MadLad](https://github.com/mellobacon/MadLad), a compiler and soon to be esolang.  
+- 🔥 I’m currently working on [MadLad](https://github.com/mellobacon/MadLad), a compiler and soon to be esolang, and [pastemyst-vsc](https://github.com/mellobacon/vscode-pastemyst), a Visual Studio Code extension for https://paste.myst.rs/.  
   
 
 - 🎹 Fun fact: The amount of FL Studio files I have are sooooo many 😄. Not even complete songs neither!  
