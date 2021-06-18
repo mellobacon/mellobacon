@@ -15,7 +15,7 @@
 - 🎓 I’m currently learning Java, C#, Electron, and JavaScript/TypeScript
   
 
-- 🔥 I’m currently working on [MadLad](https://github.com/mellobacon/MadLad), a compiler and soon to be esolang, and [pastemyst-vsc](https://github.com/mellobacon/vscode-pastemyst), a Visual Studio Code extension for https://paste.myst.rs/.  
+- 🔥 I’m currently working on [MadLad](https://github.com/mellobacon/MadLad), a compiler and soon to be esolang, and [vscode-pastemyst](https://github.com/mellobacon/vscode-pastemyst), a Visual Studio Code extension for https://paste.myst.rs/.  
   
 
 - 🎹 Fun fact: The amount of FL Studio files I have are sooooo many 😄. Not even complete songs neither!  
