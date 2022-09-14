@@ -15,11 +15,7 @@
 - 🎓 I’m currently learning Java, C#, Electron, and JavaScript/TypeScript
   
 
-- 🔥 I’m currently working on [MelloSH](https://github.com/mellobacon/MelloSH), a small shell, and [scp-terminal](https://github.com/mellobacon/scp-terminal), a desktop app for navigating https://scp-wiki.wikidot.com/ via a cool looking commandline. 
-  
-
-- 🎹 Fun fact: The amount of FL Studio files I have are sooooo many 😄. Not even complete songs neither!  
-  
+- 🔥 I’m currently working on [Nucleus](https://github.com/mellobacon/Nucleus), a text editor, and [scp-terminal](https://github.com/mellobacon/scp-terminal), a desktop app for navigating https://scp-wiki.wikidot.com/ via a cool looking commandline. 
 
 - 🖥️ Extra: Check out another cool project I did [here](https://github.com/mellobacon/Termello)!  
     - Looking for a project to contribute on? [Help is wanted](https://github.com/mellobacon/Termello/issues/20)!
