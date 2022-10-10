@@ -12,57 +12,42 @@
 - 👩‍🎓 I am currently a university student, junior (or third year in uni for you international peeps xd)  
   
 
-- 🎓 I’m currently learning Java, C#, Electron, and JavaScript/TypeScript
+- 🎓 I’m currently learning C#, Tauri, and JavaScript/TypeScript
   
 
 - 🔥 I’m currently working on [Nucleus](https://github.com/mellobacon/Nucleus), a text editor, and [scp-terminal](https://github.com/mellobacon/scp-terminal), a desktop app for navigating https://scp-wiki.wikidot.com/ via a cool looking commandline. 
 
 - 🖥️ Extra: Check out another cool project I did [here](https://github.com/mellobacon/Termello)!  
-    - Looking for a project to contribute on? [Help is wanted](https://github.com/mellobacon/Termello/issues/20)!
+- Looking for a project to contribute on? [Help is wanted](https://github.com/mellobacon/Nucleus/issues/)!
 
 <br/>  
 
 
 ## My Skill Set  
-<table style="background-color: gray;" width="100%" align="center">
-  <tr>
-  
-   <td align="top" width="50%" style="border: 0px;">
 
-  ### Languages  
-  <div align="center">  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
-  </div>
+Here's a little summary of what I know
 
-  </td>
+### Languages
+---
+- HTML5
+- CSS
+- SCSS
+- JavaScript
+- TypeScript
+- C#
+- Java
 
-  <td align="top" width="50%" style="border: 0px;">
-
-  ### Frameworks  
-  <div align="center">  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" />  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" />  
-  </div>
-
-  </td>
-
-  </tr>
-</table>  
+### Frameworks
+---
+- .NET
+- Bootstrap
+- Svelte
 
 <br/>  
 
 
 ## Github Stats  
-<div align="center">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=mellobacon&count_private=true&show_icons=true&theme=dark&include_all_commits=true&custom_title=My Stats&hide_border=true" align="center" </a>
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mellobacon&theme=dark&custom_title=Languages I use the most&hide_border=true&layout=compact" align="center" </a></div>
 
-<br />
-
-----
-<div align="center">Go check out <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a> to make a readme like this!</div>
+<div align-"center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mellobacon&count_private=true&show_icons=true&theme=dark&hide=contribs" />
+</div>
