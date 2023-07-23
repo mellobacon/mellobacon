@@ -6,18 +6,21 @@
 # <div align="center">The name's Mellobacon, a nerd trying to make cool stuff.</div>  
   
 
-- 🌎 I am from the USA (enter eagles, burgers, fireworks, and other American things here🤠)  
+- 🌎 I am from the USA 🤠  
   
 
-- 👩‍🎓 I am currently a university student, junior (or third year in uni for you international peeps xd)  
+- 👩‍🎓 I am currently a university student, Senior (or fourth year in uni for you international peeps xd)  
   
 
 - 🎓 I’m currently learning C#, Tauri, and JavaScript/TypeScript
   
 
-- 🔥 I’m currently working on [Nucleus](https://github.com/mellobacon/Nucleus), a text editor, and [scp-terminal](https://github.com/mellobacon/scp-terminal), a desktop app for navigating https://scp-wiki.wikidot.com/ via a cool looking commandline. 
+- 🔥 I’m currently working on [Nucleus](https://github.com/mellobacon/Nucleus), a text editor
 
-- 🖥️ Extra: Check out another cool project I did [here](https://github.com/mellobacon/Termello)!  
+- 🖥️ Extra: Check out other cool project I did!
+    - [Termello](https://github.com/mellobacon/Termello), a terminal emulator.
+    - [scp-terminal](https://github.com/mellobacon/scp-terminal), a desktop app for navigating https://scp-wiki.wikidot.com/ via a cool looking commandline.
+    - [Corepad](https://github.com/mellobacon/CorePad), a basic notepad app for Windows.
 - Looking for a project to contribute on? [Help is wanted](https://github.com/mellobacon/Nucleus/issues/)!
 
 <br/>  
@@ -36,12 +39,14 @@ Here's a little summary of what I know
 - TypeScript
 - C#
 - Java
-
+- Python
 ### Frameworks
 ---
 - .NET
 - Bootstrap
 - Svelte
+- Electron
+- Tauri
 
 <br/>  
 
