@@ -4,19 +4,11 @@
   
 
 # <div align="center">The name's Mellobacon, a nerd trying to make cool stuff.</div>  
-  
 
 - 🌎 I am from the USA 🤠  
-  
-
-- 👩‍🎓 I am currently a university student, Senior (or fourth year in uni for you international peeps xd)  
-  
-
-- 🎓 I’m currently learning C#, Tauri, and JavaScript/TypeScript
-  
-
+- 🎓 I’m currently using C#, Tauri, and JavaScript/TypeScript, and Rust
+- I like to make desktop apps and websites as well as designing UI
 - 🔥 I’m currently working on [Nucleus](https://github.com/mellobacon/Nucleus), a text editor
-
 - 🖥️ Extra: Check out other cool project I did!
     - [Termello](https://github.com/mellobacon/Termello), a terminal emulator.
     - [scp-terminal](https://github.com/mellobacon/scp-terminal), a desktop app for navigating https://scp-wiki.wikidot.com/ via a cool looking commandline.
@@ -24,7 +16,6 @@
 - Looking for a project to contribute on? [Help is wanted](https://github.com/mellobacon/Nucleus/issues/)!
 
 <br/>  
-
 
 ## My Skill Set  
 
@@ -40,6 +31,7 @@ Here's a little summary of what I know
 - C#
 - Java
 - Python
+- Rust
 ### Frameworks
 ---
 - .NET
@@ -47,6 +39,8 @@ Here's a little summary of what I know
 - Svelte
 - Electron
 - Tauri
+- Vue
+- Nuxt
 
 <br/>  
 
