@@ -17,33 +17,6 @@
 
 <br/>  
 
-## My Skill Set  
-
-Here's a little summary of what I know
-
-### Languages
----
-- HTML5
-- CSS
-- SCSS
-- JavaScript
-- TypeScript
-- C#
-- Java
-- Python
-- Rust
-### Frameworks
----
-- .NET
-- Bootstrap
-- Svelte
-- Electron
-- Tauri
-- Vue
-- Nuxt
-
-<br/>  
-
 
 ## Github Stats  
 
